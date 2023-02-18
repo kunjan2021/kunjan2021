@@ -6,7 +6,7 @@
 ### <div align="center">Passionate Web Developer striving to improve, innovate and create impactful web solutions</div>  
   
 
-- 🔭 I’m currently learning Frontend Web Development  
+- 🔭 I’m currently working Fulltime in Healthcare and learning Frontend Web Development 
   
 
 - 🌱 I’m currently learning JavaScript and React  
