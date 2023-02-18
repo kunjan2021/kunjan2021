@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/kunjan2021/kunjan2021/blob/main/kunjan2021github.gif" align="center" style="width: 100%" />
+<img src="https://github.com/kunjan2021/kunjan2021/blob/main/kunjan2021github.gif" align="center" style="width: 80%" />
 </div>  
   
 
