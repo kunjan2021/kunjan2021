@@ -9,7 +9,7 @@
 - 🔭 I’m currently working Fulltime in Healthcare and learning Frontend Web Development 
   
 
-- 🌱 I’m currently learning JavaScript and React  
+- 🌱 I’m currently learning JavaScript and (!React)  
   
 
 - ❓Reach out to me if you are feeling low, I surf a lot of motivational and inspirational content  
