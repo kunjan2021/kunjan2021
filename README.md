@@ -15,7 +15,9 @@
 - ❓Reach out to me if you are feeling low, I watch/read a lot of motivational and inspirational content  
   
 
-- ⚡ Fun fact: I worked as a dentist for 5 years where I was removing bugs from oral cavity, now I am creating bugs since I am a new developer 😜  
+- ⚡ Fun fact: I worked as a dentist for 5 years where I was removing bugs
+🪲  from oral cavity, now I am creating bugs 
+🪲 since I am a new developer 😜  
   
 
 <br/>  
